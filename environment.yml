@@ -1,9 +1,10 @@
 dependencies:
- -python=3
- -pip:
-  -spacy
-  -ipykernel
-  -scipy
-  -numpy
-  -matplotlib
-  -sympy
+  - python=3
+  - pip:
+    - spacy
+    - ipykernel
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+
